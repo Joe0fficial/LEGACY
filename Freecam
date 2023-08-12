@@ -65,9 +65,8 @@ table.insert(cors,sandbox(LocalScript0,function()
 
 	local PITCH_LIMIT = rad(90)
 
-	local VEL_STIFFNESS = 1.5
-	local PAN_STIFFNESS = 1.0
-	local FOV_STIFFNESS = 4.0
+	local VEL_STIFFNESS = 0
+	local PAN_STIFFNESS = 0
 
 	------------------------------------------------------------------------
 
