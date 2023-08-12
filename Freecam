@@ -61,8 +61,7 @@ table.insert(cors,sandbox(LocalScript0,function()
 	local INPUT_PRIORITY = Enum.ContextActionPriority.High.Value
 
 	local NAV_GAIN = Vector3.new(1, 1, 1)*64
-	local PAN_GAIN = Vector2.new(0.75, 1)*8
-	local FOV_GAIN = 300
+	local PAN_GAIN = Vector2.new(3, 3)
 
 	local PITCH_LIMIT = rad(90)
 
