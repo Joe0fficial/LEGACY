@@ -10,4 +10,5 @@ return {
     ["Wood"] = Enum.Material.Wood,
     ["Wood Planks"] = Enum.Material.WoodPlanks,
     ["CrackedLava"] = Enum.Material.CrackedLava,
+    ["Default"] = OriginalGunMaterial()
 }
